@@ -1,15 +1,21 @@
-title: Mining Boost
-subtitle: Mining Boost
+title: 
+en: Mining Boost
+pl: Przyśpieszacz wydobycia
+subtitle: 
+en: Mining Boost
+pl: Przyśpieszacz wydobycia
 type: page
 icon: icons/modules/mining/miningboost.png
 tech: mining-boost
 content:
   - type: text
-    text: >
-      Provides a temporary boost to Hydrogen collection speed.
+    text: 
+    en: > Provides a temporary boost to Hydrogen collection speed.
+    pl: > Powoduje chwilowe przyśpieszenie wydobycia.
   - type: text
-    text: >
-      The blueprints can be found by researching Blue Crystal (level 2+) artifacts.
+    text: 
+    en: > The blueprints can be found by researching Blue Crystal (level 2+) artifacts.
+    pl: > Schematy można zdobyć badając Niebieskie Kryształy (poziom 2+).
   - type: excel-table
     filename: tables/mining.xlsx
     sheet: Boost
