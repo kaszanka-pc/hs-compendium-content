@@ -1,20 +1,29 @@
-title: Enrich
-subtitle: Enrtich
+title: 
+en: Enrich
+pl" Użyźnianie
+subtitle: 
+en: Enrtich
+pl: Użyźnianie
+
 type: page
 icon: icons/modules/mining/enrich.png
 tech: enrich
 content:
   - type: text
-    text: >
-      Instantly increases the amount of Hydrogen stored on all asteroids in the sector.
+    text: 
+    
+    en: > Instantly increases the amount of Hydrogen stored on all asteroids in the sector.
+    pl: > Natychmiastowo zwiększa ilość hydrogenu na asterowidach w danym sektorze.
 
   - type: text
-    text: >
-      Asteroids have a cap of 1500 hydrogen and a sector can only be enriched once, every 24hrs.
+    text: 
+    en: > Asteroids have a cap of 1500 hydrogen and a sector can only be enriched once, every 24hrs.
+    pl: > Asteroidy można użyżniać do osiągnięcia przez nie ilości 1500 hydrogenu. Każdej dobymoduł można wykorzystać tylko raz w danym sektorze.
 
   - type: text
-    text: >
-      The blueprints can be found by researching Blue Crystal (level 2+) artifacts.
+    text: 
+    en: > The blueprints can be found by researching Blue Crystal (level 2+) artifacts.
+    pl: > Schematy można zdobyć przez badanie Niebieskich Kryształów (poziom 2+).
   - type: excel-table
     filename: tables/mining.xlsx
     sheet: Enrich
