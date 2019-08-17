@@ -1,25 +1,45 @@
-title: Genesis
-subtitle: Genesis
+title: 
+en: Genesis
+pl: Genesis
+subtitle: 
+en: Genesis
+pl: Genesis
 type: page
 icon: icons/modules/mining/genesis.png
 tech: genesis
 content:
   - type: text
-    text: >
+    text: 
+    en: >
       Instantly creates new asteroid fields on the Miner's current sector.
       Does not work on sectors with Jump Gates in White Stars.
-
+    pl: >
+       Natychmiast tworzy nowe asteroidy w sektorze, w którym przebywa aktualnie statek wydobywczy.
+       Nie działa na sektory z bramiami w Białych Gwiazdach.
+    
   - type: text
-    text: >
+    text: 
+    
+    en: >
       Sectors are limited to 14 asteroids max.
+     pl:>
+      Sektory mogą mieć maksymalnie 14 asteroid.
 
   - type: text
-    text: >
+    text: 
+    
+    en: >
       Has a sector cooldown of 5 days in white stars, so it can only be used once per sector.
+    pl: > 
+      W Białych Gwaiazdach dany sektor może być poddany działaniu tego modułu tylko raz na 5 dni, czyli praktycznie raz na rozgrywkę.
 
   - type: text
-    text: >
+    text: 
+    
+    en: >
       The blueprints can be found by researching Blue Crystal (level 5+) artifacts.
+    pl: > 
+      Schematy można zdobyć badając Niebieskie Kryształy (poiom 5+).
 
   - type: excel-table
     filename: tables/mining.xlsx
